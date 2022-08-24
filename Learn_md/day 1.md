@@ -3,7 +3,6 @@
 ## 클래스를 이용한 객체생성
 
 * 메모리 구조
-  * 스택 - POP(Stack Pointer 1 감소)로 감소시키고 PUSH(Stack Pointer 1 증가)로 증가시켜, 쌓이는 구조이다. 
   * 힙 - POP(Stack Pointer 1 감소)로 감소시키고 PUSH(Stack Pointer 1 증가)로 증가시켜, 감소되는 구조이다.
 
 * 클래스, 인스턴스
